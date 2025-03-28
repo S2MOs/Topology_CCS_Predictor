@@ -1,0 +1,2 @@
+mkdir: cannot create directory ‘/scratch/1381514’: File exists
+cp: cannot stat ‘/home/users/q/d/qduez/AutoQChem/Diamines_Batch3/WZCQRUWWHSTZEM-UHFFFAOYSA-N/2\r’: No such file or directory

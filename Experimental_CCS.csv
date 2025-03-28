@@ -1,0 +1,28 @@
+SMILES;CCS;Names
+NCCN;204.84;1,2-diaminoethane
+NCCCN;204.08;1,3-diaminopropane
+NCCCCN;204.04;1,4-diaminobutane
+NCCCCCN;205.43;1,5-diaminopentane
+NCCCCCCN;207.52;1,6-diaminohexane
+NCCCCCCCN;209.25;1,7-diaminoheptane
+NCCCCCCCCN;211.32;1,8-diaminooctane
+NCCCCCCCCCCN;215.43;1,10-diaminodecane
+NCCCCCCCCCCCCN;221.55;1,12-diaminododecane
+CCNCCNCC;212.45;Diethylethylene diamine
+NC1C(N)CCCC1;219.74;1,2-diaminocyclohexane
+NCCSSCCN;207.07;Cystamine
+CN(C)CCN(C)C;212.45;N,N,N',N' tetramethyl ethylene diamine
+CNCCNC;206.89;N,N' dimethylethylene diamine
+CNCCOCCNC;206.77;bis(methylamino)-3-oxy-pentane
+NCCCN(CC)CC;211.36;N-Ndiethyl-1,3-propane diamine
+CNCCN;205.51;N-methylethylene diamine
+CCNCCN;206.18;N-ethylethylene diamine
+NCCCNC;204.04;N-methyl 1,3 propane diamine
+CC(N)CN;208.00;1,2-propane diamine
+CC(N)CCCN(CC)CC;213.38;2-amino-5-diethylaminopentane
+NC1=CC=C(OC2=CC=C(N)C=C2)C=C1;248.02;4,4'-Diaminodiphenyl ether
+NC1=CC=C(Cl)C=C1N;226.81;4-chloro-1,2-phénylènediamine
+NC1=C(N)C=C2C=CC=CC2=C1;233.39;2,3-Diaminonaphthalene
+NC1=CC=CC2=C(N)C=CC=C12;232.96;1,5-diamino naphthalene
+NC1=CC=CC=C1NC2=CC=CC=C2;233.05;N-Phenyl-o-phenylenediamine
+NCCNC1=C2C=CC=CC2=CC=C1;237.01;N-Naphthyl ethylene diamine

@@ -1,0 +1,28 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=2,walltime=800:00:00,mem=6gb
+# Send me mail when job begins end and aborts 
+#PBS -m bea
+
+export input=AGAHETWGCFCMDK-UHFFFAOYSA-N_conf_0
+
+export pbsname=$PBS_JOBNAME
+export input=${pbsname%%.*}
+
+module load gaussian/16_A03
+
+mkdir /scratch/$PBS_JOBID
+
+export GAUSS_SCRDIR=/scratch/$PBS_JOBID
+
+cd $PBS_O_WORKDIR
+
+cp $input.gjf $GAUSS_SCRDIR
+
+cd $GAUSS_SCRDIR
+
+g16 < $input.gjf >  $input.log
+
+cp $GAUSS_SCRDIR/*.log $PBS_O_WORKDIR
+cp $GAUSS_SCRDIR/*.chk $PBS_O_WORKDIR
+
+rm -rf $GAUSS_SCRDIR
