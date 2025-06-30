@@ -1,6 +1,8 @@
 # Topology_CCS_Predictor
 Data and notebooks for "Classifying host-guest topology with ion mobility spectrometry and machine learning"
 
+The "Under review" version of this repository has been uploaded to Zenodo @ [![DOI](https://zenodo.org/badge/956613146.svg)](https://doi.org/10.5281/zenodo.15211371)
+
 ### In this repository
 - Experimental CCS data
 - DFT inputs and outputs for the diamines included in the chemical space
