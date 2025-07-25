@@ -1,7 +1,7 @@
 # Topology_CCS_Predictor
-Data and notebooks for "Classifying host-guest topology with ion mobility spectrometry and machine learning"
+Data and notebooks for "Classifying host-guest topology with ion mobility spectrometry and machine learning" (https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01525)
 
-The "Under review" version of this repository has been uploaded to Zenodo @ [![DOI](https://zenodo.org/badge/956613146.svg)](https://doi.org/10.5281/zenodo.15211371)
+The "Published" version of this repository has been uploaded to Zenodo @ [![DOI](https://zenodo.org/badge/956613146.svg)](https://doi.org/10.5281/zenodo.15211371)
 
 ### In this repository
 - Experimental CCS data
